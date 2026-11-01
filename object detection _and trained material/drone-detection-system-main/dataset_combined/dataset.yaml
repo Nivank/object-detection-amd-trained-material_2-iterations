@@ -1,0 +1,10 @@
+names:
+- AirPlane
+- Drone
+- Helicopter
+- Bird
+nc: 4
+path: D:\inav3\drone-detection-system-main\drone-detection-system-main\dataset_combined
+test: test/images
+train: train/images
+val: val/images

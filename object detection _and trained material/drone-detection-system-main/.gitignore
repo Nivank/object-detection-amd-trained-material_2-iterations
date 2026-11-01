@@ -1,0 +1,9 @@
+myvenv/
+venv/
+__pycache__/
+*.pyc
+.env
+.vscode/
+.idea/
+/Lib
+/detections.json

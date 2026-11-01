@@ -1,0 +1,12 @@
+{
+  "seq": 123,                       
+  "timestamp_utc": "2025-10-14T08:12:34.567Z",
+  "node_id": "node-01",
+  "frame_id": 456,
+  "centroid": [320.0, 240.0],       
+  "delta": [dx, dy],                
+  "speed_px_s": 123.4,              
+  "angle_deg": 45.0,                
+  "direction": "NE",         
+  "confidence": 0.87
+}
